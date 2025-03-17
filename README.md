@@ -80,6 +80,8 @@ The application will be available at `http://127.0.0.1:5000/`.
 - NumPy
 - Pickle
 
+![Screenshot 2025-03-18 013626](https://github.com/user-attachments/assets/e9cffbb8-be7b-4c2d-a704-5789b78329e0)
+
 
 ## File Structure
 ```
